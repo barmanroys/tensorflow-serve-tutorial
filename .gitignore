@@ -145,3 +145,7 @@ pipelines/gcp_cloud_ai/argo_pipeline_files/*.tgz
 pipelines/gcp_cloud_ai/argo_pipeline_files/*.zip
 data/
 .artifacts/
+
+# Pycharm configurations
+.idea/
+
